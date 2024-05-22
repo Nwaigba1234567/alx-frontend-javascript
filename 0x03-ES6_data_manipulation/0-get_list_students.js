@@ -7,6 +7,4 @@ function getListStudents() {
 
   return students;
 }
-
 export default getListStudents;
-
